@@ -4,7 +4,7 @@ title: Quizzes
 has_children: true
 has_toc: true
 description: Quizzes para estudo em casa
-nav_order: 4
+nav_order: 3
 ---
 
 # Quizzes

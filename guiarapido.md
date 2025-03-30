@@ -2,7 +2,7 @@
 layout: page
 title: Referência
 description: Guia Rápido de Referência do Curso.
-nav_order: 7
+nav_order: 4
 ---
 
 # Referência do Curso FCD.
