@@ -1,9 +1,9 @@
 ---
 layout: page
-title: BabyPandas
+title: Pandas
 nav_order: 5
 ---
-[<img src="https://raw.githubusercontent.com/flaviovdf/fcd/master/assets/colab_favicon_small.png" style="float: right;">](https://colab.research.google.com/github/flaviovdf/fcd/blob/master/_lessons/05-BabyPandas.ipynb)
+[<img src="https://raw.githubusercontent.com/flaviovdf/fcd/master/assets/colab_favicon_small.png" style="float: right;">](https://colab.research.google.com/github/flaviovdf/icd-bradesco/blob/master/_lessons/05-Pandas.ipynb)
 
 # Tópico 5 – DataFrames: Acessando DataFrames e Séries
 {: .no_toc .mb-2 }
@@ -17,9 +17,6 @@ Resultados Esperados
 1. Entender o `DataFrame` de pandas/babypandas
 1. Saber acessar linhas e colunas
 1. Entender consultas básicas
-
-{: .no_toc .text-delta }
-Material Adaptado do [DSC10 (UCSD)](https://dsc10.com/)
 
 Os dados de hoje estão [aqui](https://raw.githubusercontent.com/flaviovdf/fcd/main/assets/06-GroupBy/data/afonso_pena.csv)
 

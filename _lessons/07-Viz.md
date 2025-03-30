@@ -3,7 +3,7 @@ layout: page
 title: Visualização de Dados
 nav_order: 7
 ---
-[<img src="https://raw.githubusercontent.com/flaviovdf/fcd/master/assets/colab_favicon_small.png" style="float: right;">](https://colab.research.google.com/github/flaviovdf/fcd/blob/master/_lessons/06-Viz.ipynb)
+[<img src="https://raw.githubusercontent.com/flaviovdf/fcd/master/assets/colab_favicon_small.png" style="float: right;">](https://colab.research.google.com/github/flaviovdf/icd-bradesco/blob/master/_lessons/07-Viz.ipynb)
 
 # Tópico 7 – DataViz: Visualizando Dados 📈
 {: .no_toc .mb-2 }
@@ -17,17 +17,6 @@ Resultados Esperados
 1. Junto com a aula passada, ferramentas simples para exploração de dados
 1. Aprender a base de pandas para realizar um plot simples
 1. Aprender conceitos básicos de visualização dados
-
-{: .no_toc .text-delta }
-Material Adaptado do [DSC10 (UCSD)](https://dsc10.com/)
-
-
-```python
-#In: 
-# Descomente e execute as linhas a seguir para usar o BabyPandas e o PandasTutor
-# (faça isso apenas se não tiver instalado ainda)
-# ! pip install babypandas
-```
 
 
 ```python
@@ -625,7 +614,7 @@ actors.plot(kind='scatter', x='Number of Movies', y='Total Gross');
 
 
     
-![png](07-Viz_files/07-Viz_32_0.png)
+![png](07-Viz_files/07-Viz_31_0.png)
     
 
 
@@ -655,7 +644,7 @@ actors.plot(kind='scatter', x='Number of Movies', y='Average per Movie');
 
 
     
-![png](07-Viz_files/07-Viz_35_0.png)
+![png](07-Viz_files/07-Viz_34_0.png)
     
 
 
@@ -1162,7 +1151,7 @@ movies_by_year.plot(kind='line', y='Number of Movies');
 
 
     
-![png](07-Viz_files/07-Viz_47_0.png)
+![png](07-Viz_files/07-Viz_46_0.png)
     
 
 
@@ -1191,7 +1180,7 @@ movies_by_year.plot(kind='line', y='Number of Movies');
 
 
     
-![png](07-Viz_files/07-Viz_50_0.png)
+![png](07-Viz_files/07-Viz_49_0.png)
     
 
 
@@ -1207,7 +1196,7 @@ movies_by_year[movies_by_year.index >= 2000].plot(kind='line', y='Number of Movi
 
 
     
-![png](07-Viz_files/07-Viz_52_0.png)
+![png](07-Viz_files/07-Viz_51_0.png)
     
 
 
@@ -1223,7 +1212,7 @@ movies_by_year[movies_by_year.index >= 2000].plot(kind='line', y='Total Gross in
 
 
     
-![png](07-Viz_files/07-Viz_55_0.png)
+![png](07-Viz_files/07-Viz_54_0.png)
     
 
 
@@ -1631,7 +1620,7 @@ charts.take(np.arange(10)).plot(kind='barh', x='track_name', y='streams');
 
 
     
-![png](07-Viz_files/07-Viz_64_0.png)
+![png](07-Viz_files/07-Viz_63_0.png)
     
 
 
@@ -1666,7 +1655,7 @@ df.plot(
 
 
     
-![png](07-Viz_files/07-Viz_66_0.png)
+![png](07-Viz_files/07-Viz_65_0.png)
     
 
 
@@ -2169,7 +2158,7 @@ top_15_artists.sort_values(by='count').plot(kind='barh', y='count');
 
 
     
-![png](07-Viz_files/07-Viz_76_0.png)
+![png](07-Viz_files/07-Viz_75_0.png)
     
 
 
@@ -2185,7 +2174,7 @@ top_15_artists.plot(kind='bar', y='count');
 
 
     
-![png](07-Viz_files/07-Viz_78_0.png)
+![png](07-Viz_files/07-Viz_77_0.png)
     
 
 
@@ -2203,7 +2192,7 @@ top_15_artists.plot(kind='bar', y='count');
 
 
     
-![png](07-Viz_files/07-Viz_80_0.png)
+![png](07-Viz_files/07-Viz_79_0.png)
     
 
 
@@ -2325,7 +2314,7 @@ weeknd.sort_values('streams').plot(kind='barh', x='track_name', y='streams');
 
 
     
-![png](07-Viz_files/07-Viz_84_0.png)
+![png](07-Viz_files/07-Viz_83_0.png)
     
 
 

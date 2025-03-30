@@ -3,7 +3,7 @@ layout: page
 title: Expressões
 nav_order: 3
 ---
-[<img src="https://raw.githubusercontent.com/flaviovdf/fcd/master/assets/colab_favicon_small.png" style="float: right;">](https://colab.research.google.com/github/flaviovdf/fcd/blob/master/_lessons/03-Expressoes.ipynb)
+[<img src="https://raw.githubusercontent.com/flaviovdf/fcd/master/assets/colab_favicon_small.png" style="float: right;">](https://colab.research.google.com/github/flaviovdf/icd-bradesco/blob/master/_lessons/03-Expressoes.ipynb)
 
 # Tópico 3 - Expressões
 {: .no_toc .mb-2 }
@@ -18,8 +18,6 @@ Resultados Esperados
 1. Saber realizar matemática simples em python
 1. Entender as ferramentas base da ciência de dados
 
-{: .no_toc .text-delta }
-Material Adaptado do [DSC10 (UCSD)](https://dsc10.com/)
 
 
 ```python

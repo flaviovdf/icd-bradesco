@@ -3,7 +3,7 @@ layout: page
 title: Introdução
 nav_order: 1
 ---
-[<img src="https://raw.githubusercontent.com/flaviovdf/fcd/master/assets/colab_favicon_small.png" style="float: right;">](https://colab.research.google.com/github/flaviovdf/fcd/blob/master/_lessons/01-Introducao.ipynb)
+[<img src="https://raw.githubusercontent.com/flaviovdf/fcd/master/assets/colab_favicon_small.png" style="float: right;">](https://colab.research.google.com/github/flaviovdf/icd-bradesco/blob/master/_lessons/01-Introducao.ipynb)
 
 # Aula 1 - Introdução
 {: .no_toc .mb-2 }
@@ -18,8 +18,6 @@ Resultados Esperados
 1. Receber as tarefas de configuração do ambiente
 1. Ficar motivado!
 
-{: .no_toc .text-delta }
-Material Adaptado do [DSC10 (UCSD)](https://dsc10.com/)
 
 ## Imports Básicos
 
@@ -27,9 +25,9 @@ Código em Python geralmente começa com alguns `imports`. Pense nisso como func
 
 1. Biblioteca de plots, `matplotlib`
 1. Biblioteca de vetores, `numpy`
-1. Biblioteca de leitra de dados, `babypandas`.
+1. Biblioteca de leitra de dados, `pandas`.
 
-O foco do nosso curso não é passar por cima de Programação e Desenvolvimento de Software I. Lá, você vai aprender realmente a programar. Python é uma linguagem poderosa tem uma sintaxe simples, que vamos explorar para ciência de dados apenas.
+O foco do nosso curso não é ensinar programação. Python é uma linguagem poderosa tem uma sintaxe simples, que vamos explorar para ciência de dados apenas.
 
 
 ```python
@@ -56,18 +54,11 @@ def mostrar_historico():
     return IFrame(src, width, height)
 ```
 
-## Fundamentos de Ciência de Dados - 2025.1
+## Introdução à Ciência de Dados (Bradesco) - 2025.1
 
-### Bem-vindo ao curso de Ciência de Dados (UFMG)! 👋
+### Bem-vindo ao curso de Ciência de Dados (Bradesco)! 👋
 - Hoje terermos uma visita guiada à ciência de dados.
-- Nosso curso foi desenvolvido pela UC Berkeley em 2015 (data8.org).
-- Em 2017 criamos a matéria de Introdução à Ciência de Dados (DCC212).
-  - Vocês vão ver essa matéria
-  - Porém o data8 era muito simples para o quarto período
-- Voltamos com a ideia de ter o data8 no primeiro período no curso de Ciência de Dados
-- Nos baseamos na abordagem de sucesso da UCSD (data10.com)
-  - Também adaptada de Berkeley
-- **Objetivo:** Aprenda programação e estatísticas suficientes para fazer ciência de dados.
+- **Objetivo:** Aprender programação e estatísticas suficientes para fazer ciência de dados.
   - Estatísticas sem muita matemática, principalmente simulação.
   - Estabelece as bases para todos os outros cursos do curso.
 
@@ -88,27 +79,15 @@ def mostrar_historico():
 - BSc em Ciência da Computação pela UFCG
 - Mestrado e Doutorado em Ciência da Computação pela UFMG
   - Estudos parciais na Carnegie Mellon University e University of Brittish Columbia
-- Já ensinou mais de 20 turmas de Introdução à Ciência de Dados (4o Período)
-- Membro da comissão que fundou o curso
-  - Em particular, focou na definição da grade.
-
-### Professor: Uriel Moreira Silva (DEST)
-
-<center><img src='https://raw.githubusercontent.com/flaviovdf/fcd/master/assets/01-Introducao/images/uriel.jpg' width=240></center>
-
-- Possui graduação em Ciências Econômicas pelo Grupo IBMEC
-- Mestrado e Doutorado em Estatística pela UFMG
-- Recem contratado do departamento, porém professor desde 2021
-- Mais de 30 artigos em eventos e períodicos de estatística
-- Diversos prêmios na comunidade estatística
+- Já ensinou mais de 20 turmas de Introdução à Ciência de Dados no DCC/UFMG
+- Membro da comissão fundadora do Bacharelado em Ciência de Dados UFMG
+- Planejou a grade do BCD, assim como de outras disciplinas de Ciência de Dados
 
 ### Monitores
 
 Além disso, temos uma equipe de monitores para ajudar vocês.
 
-- **XX Monitores de Mestrado**: Ainda será definido
-- **XX Monitores de graduação**: Ainda será definido
-- **A comunicação com os monitres é via Moodle (já falo disso breve)**
+- **02 Monitores de Graduação**: Victor Gabriel e Raphael Araújo
 
 ## O que é “ciência de dados”? 🤔
 
@@ -171,24 +150,24 @@ mostrar_historico()
 
 O site do curso é o seu ponro de partida para a parte de **estudo**.
 
-<center><h3><a href="https://flaviovdf.io/fcd">https://flaviovdf.io/fcd</a></h3></center>
+<center><h3><a href="https://flaviovdf.io/icd-bradesco">https://flaviovdf.io/icd-bradesco</a></h3></center>
 
 - No site tem o material base do curso
 - Perguntas para estudos para as provas
 - Calendário e outras informações
-- Porém, comunicação, tarefas e entregas são via [Moodle](https://virtual.ufmg.br)!
+- Porém, comunicação, tarefas e entregas são via [Moodle](https://ead.dcc.ufmg.br)!
 
 ### Ambientes da UFMG
 
 - **Moodle**: fórum de perguntas e respostas. Todos os anúncios serão feitos aqui.
-- **Virtual Programming Lab**: onde você enviará todas as tarefas para avaliação automática. Dentro do moodle.
+- **Teams**: onde serão nossas aulas
 
 ### Aulas
 
-- As aulas serão presenciais!!
-- A participação nunca será exigida, mas é incentivada. Caso você seja reprovado na matéria e tenha menos que 75% de presença, **reprovação por falta!!** (isso é ruim). Caso passe, não olhamos suas presenças.
+- As aulas serão remotas!!
+- A participação nunca será exigida, mas é incentivada. 
 - Os slides/código da aula serão vinculados ao site do curso, tanto em formato de código "executável" quanto em arquivo HTML (✏️), que você pode salvar como PDF e anotar em seu tablet.
-- Tentaremos tornar as palestras envolventes. **Traga seu laptop ou tablet**, se tiver.
+- Tentaremos tornar as palestras envolventes.
 
 ### Tarefas de Laboratório (Moodle) e Monitoria
 
@@ -207,73 +186,19 @@ As sessões de monitoria servem para que você pratique as **ideias** do curso.
 
 ### Cronograma do Curso
 
-### Projeto
-
-- No **Projeto Intermediário** e no **Projeto Final**, você se aprofundará em um conjunto de dados! Os projetos são mais longos do que os trabalhos de casa, por isso damos-lhe mais tempo para trabalhar neles.
-- Projetos deste semestre: À Definir.
-- Você pode trabalhar em projetos com parceiros (pares). Os dois devem contribuir ativamente em **todas as partes** do projeto.
-
-### Avaliações
-
-* Provas Teóricas (2 x 25 pts): 50 pontos.
-* Atividades práticas (10 Laboratórios de 2 pts): 20 total.
-* Projeto: 30 pontos.
+- No moodle
 
 ### Leituras e recursos
 
 - Faremos leituras de duas fontes. As leituras de cada palestra serão publicadas na página inicial do curso.
-- [Computational and Inferential Thinking (CIT)](https://inferencialthinking.com), o livro criado para a versão deste curso em Berkeley.
-- [`babypandas` notes](https://notes.dsc10.com), escrito especificamente para ajudar discentes que estão iniciando em ciência de dados!
-
-- <span style='color:red'><b>🚨 Essa Lista Vai Aumentar!!</b>.</span>
-
-### Primeira tarefa
-- O laboratório 0 será entregue **Domingo, 30 de Março às 23h59**.
-- Será lançada até quinta. Discutirei em sala!
-- <span style='color:red'><b>🚨 Importante: comece cedo e envie com frequência</b>.</span>
-
-### Conseguindo ajuda
-
-Este é um curso introdutório, porém pode ser pesado para algumas pessoas. Além do mais, estamos na primeira oferta do curso! Precisamos de sua ajuda para ponderar o material!
-
-Saiba que estamos aqui para ajudá-lo – veja como:
-
-- Procure os professores em suas salas. Caso não ache os mesmos, mande e-mail.
-- Procure os monitores para ajudas nas tarefas.
-- Procure o colegiado e representantes do curso.
+- [Learning Data Science](https://learningds.org/intro.html)
+- [Computational and Inferential Thinking (CIT)](https://inferencialthinking.com)
 
 ### Colaboração
 
 #### Fazer perguntas é altamente recomendável!
-- Discuta todas as questões entre si (exceto as provas).
-- Envie tarefas de laboratório individualmente, mas você pode trabalhar com outras pessoas (sem compartilhamento de código).
-- Apresentar projetos individualmente ou em pares.
-
-#### Os limites da colaboração:
-- Não compartilhem soluções entre si nem olhem o código de alguém.
-- Os parceiros do projecto devem contribuir para todas as partes do projecto. Não divida o projeto.
-- Violações de integridade acadêmica geralmente resultam em reprovação no curso.
-
-### Estamos aqui para ajudá-lo!
-
-Independentemente da sua formação, você pode ter sucesso neste curso. **Nenhuma experiência anterior em programação ou estatística será assumida!**
-
-Assista no YouTube: [We’re All Data Scientists](https://www.youtube.com/watch?v=YMnqPTLoj7o).
-
-### Sua Saúde Mental!!
-
-A UFMG conta com serviços de acolhimento e psicologia. Se você ou alguém que você conhece precisar de cuidados de saúde mental, entre em contato!
-
-<center><h3><a href="https://www.icex.ufmg.br/icex_novo/acolhimento/">Acolhimento ICEx</a></h3></center>
-
-<center><h3><a href="https://www.ufmg.br/saudemental/">Saúde Mental UFMG</a></h3></center>
-
-- **Não adoeça pelo curso!**
-- Um curso de exatas é bastante puxado. Porém você tem recursos.
-- Tranque matérias, é melhor do que perder as mesmas.
-- Pegue menos matérias.
-- Procure os serviços acima e o colegiado do curso.
-- **Fale com os professores (os desta disciplina estão dispostos a conversar)**
+- Discuta todas as questões entre si
+- Envie tarefas de laboratório individualmente, mas você pode trabalhar com outras pessoas.
 
 ## Demo de Ciência de Dados
 
@@ -1490,7 +1415,7 @@ plt.show();
 
 
     
-![png](01-Introducao_files/01-Introducao_45_0.png)
+![png](01-Introducao_files/01-Introducao_38_0.png)
     
 
 
@@ -1518,7 +1443,7 @@ plt.show()
 
 
     
-![png](01-Introducao_files/01-Introducao_47_0.png)
+![png](01-Introducao_files/01-Introducao_40_0.png)
     
 
 

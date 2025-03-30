@@ -3,7 +3,7 @@ layout: page
 title: GroupBy
 nav_order: 6
 ---
-[<img src="https://raw.githubusercontent.com/flaviovdf/fcd/master/assets/colab_favicon_small.png" style="float: right;">](https://colab.research.google.com/github/flaviovdf/fcd/blob/master/_lessons/06-GroupBy.ipynb)
+[<img src="https://raw.githubusercontent.com/flaviovdf/fcd/master/assets/colab_favicon_small.png" style="float: right;">](https://colab.research.google.com/github/flaviovdf/icd-bradesco/blob/master/_lessons/06-GroupBy.ipynb)
 
 # Tópico 6 – Mais consultas e GroupBy
 {: .no_toc .mb-2 }
@@ -17,17 +17,13 @@ Resultados Esperados
 1. Entender a função `groupby`
 1. Ter um pouco de noção do potêncial de pandas
 
-{: .no_toc .text-delta }
-Material Adaptado do [DSC10 (UCSD)](https://dsc10.com/)
-
 Os dados de hoje estão [aqui (Afonso Pena)](https://raw.githubusercontent.com/flaviovdf/fcd/main/assets/06-GroupBy/data/afonso_pena.csv) e [aqui (IMDB)](https://raw.githubusercontent.com/flaviovdf/fcd/main/assets/06-GroupBy/data/imdb.csv)
 
 
 ```python
 #In: 
-# Descomente e execute as linhas a seguir para usar o BabyPandas e o PandasTutor
+# Descomente e execute as linhas a seguir para usar o PandasTutor
 # (faça isso apenas se não tiver instalado ainda)
-# ! pip install babypandas
 # ! pip install pandas_tutor
 ```
 

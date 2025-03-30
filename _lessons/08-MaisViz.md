@@ -3,7 +3,7 @@ layout: page
 title: Um pouco Mais de Visualização de Dados
 nav_order: 8
 ---
-[<img src="https://raw.githubusercontent.com/flaviovdf/fcd/master/assets/colab_favicon_small.png" style="float: right;">](https://colab.research.google.com/github/flaviovdf/fcd/blob/master/_lessons/08-MaisViz.ipynb)
+[<img src="https://raw.githubusercontent.com/flaviovdf/fcd/master/assets/colab_favicon_small.png" style="float: right;">](https://colab.research.google.com/github/flaviovdf/icd-bradesco/blob/master/_lessons/08-MaisViz.ipynb)
 
 # Tópico 8 – Um pouco Mais de Visualização de Dados 📈
 {: .no_toc .mb-2 }
@@ -17,8 +17,6 @@ Resultados Esperados
 1. Aprender como transformar dados
 1. Aprender qual a melhor forma de ter dados sobre postos
 
-{: .no_toc .text-delta }
-Material Adaptado do [DSC10 (UCSD)](https://dsc10.com/)
 
 
 ```python

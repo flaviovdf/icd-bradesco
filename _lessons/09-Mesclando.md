@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Merge
-nav_order: 11
+nav_order: 09
 ---
-[<img src="https://raw.githubusercontent.com/flaviovdf/fcd/master/assets/colab_favicon_small.png" style="float: right;">](https://colab.research.google.com/github/flaviovdf/fcd/blob/master/_lessons/11-Mesclando.ipynb)
+[<img src="https://raw.githubusercontent.com/flaviovdf/fcd/master/assets/colab_favicon_small.png" style="float: right;">](https://colab.research.google.com/github/flaviovdf/icd-bradesco/blob/master/_lessons/09-Mesclando.ipynb)
 
 # Tópico 11 – Merge ou Mesclando
 {: .no_toc .mb-2 }
@@ -15,9 +15,6 @@ Vamos aprender como juntar duas tabelas diferentes de dados.
 Resultados Esperados
 
 1. Uso do merge!
-
-{: .no_toc .text-delta }
-Material Adaptado do [DSC10 (UCSD)](https://dsc10.com/)
 
 ![](https://static.wikia.nocookie.net/dragonball/images/6/60/FusionDanceFinaleGotenTrunksBuuSaga.png)
 

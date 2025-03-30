@@ -16,8 +16,6 @@ Resultados Esperados
 * Entender qual o problema de causalidade
 * Entender a diferença entre estudos randomizados e observacionais
 
-{: .no_toc .text-delta }
-Material Adaptado do [Data 8 (Berkeley)](https://data8.org/)
 
 ---
 **Sumário**
