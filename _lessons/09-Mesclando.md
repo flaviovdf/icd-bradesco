@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Merge
-nav_order: 09
+nav_order: 9
 ---
 [<img src="https://raw.githubusercontent.com/flaviovdf/fcd/master/assets/colab_favicon_small.png" style="float: right;">](https://colab.research.google.com/github/flaviovdf/icd-bradesco/blob/master/_lessons/09-Mesclando.ipynb)
 
