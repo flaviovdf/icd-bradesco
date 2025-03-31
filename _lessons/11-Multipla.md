@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Regressão Múltipla
-nav_order: 18
+nav_order: 11
 ---
 
 [<img src="https://github.com/icd-ufmg/icd-ufmg.github.io/blob/master/_lessons/colab_favicon_small.png?raw=1" style="float: right;">](https://colab.research.google.com/github/flaviovdf/icd-bradesco/blob/master/_lessons/11-Multipla.ipynb)
@@ -151,7 +151,7 @@ sns.pairplot(df, diag_kws={'edgecolor':'k'}, plot_kws={'alpha':0.5, 'edgecolor':
 
 
 
-    <seaborn.axisgrid.PairGrid at 0x7f251a0c8bf0>
+    <seaborn.axisgrid.PairGrid at 0x7f430e5d93d0>
 
 
 
@@ -822,7 +822,7 @@ print(print_model)
     Model:                            OLS   Adj. R-squared:                  0.769
     Method:                 Least Squares   F-statistic:                     179.7
     Date:                Mon, 31 Mar 2025   Prob (F-statistic):           9.00e-67
-    Time:                        12:22:25   Log-Likelihood:                -2871.3
+    Time:                        18:39:48   Log-Likelihood:                -2871.3
     No. Observations:                 216   AIC:                             5753.
     Df Residuals:                     211   BIC:                             5769.
     Df Model:                           4                                         
