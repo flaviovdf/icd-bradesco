@@ -82,12 +82,17 @@ def mostrar_historico():
 - Já ensinou mais de 20 turmas de Introdução à Ciência de Dados no DCC/UFMG
 - Membro da comissão fundadora do Bacharelado em Ciência de Dados UFMG
 - Planejou a grade do BCD, assim como de outras disciplinas de Ciência de Dados
+- Membro fundado do [labUAI](uai.science) e do [Mosaic](https://lucas-rezende.github.io/)
 
 ### Monitores
 
 Além disso, temos uma equipe de monitores para ajudar vocês.
 
 - **02 Monitores de Graduação**: Victor Gabriel e Raphael Araújo
+
+ <img src="https://media-gru2-1.cdn.whatsapp.net/v/t61.24694-24/459020198_841225374761962_8482307839179591717_n.jpg?ccb=11-4&oh=01_Q5AaIRm0iPrPA76ADjSPIRdEol1A1Q73qz0-gvS4zps4bnKX&oe=67F80522&_nc_sid=5e03e0&_nc_cat=107" alt="Raphael" width="200" height="200"> 
+
+ <img src="https://media-gru2-1.cdn.whatsapp.net/v/t61.24694-24/328757837_1134571970948875_5217356771791416006_n.jpg?ccb=11-4&oh=01_Q5AaIYxAKIL9Q_7csJ222CqPl6aOTh3bhFx17gP7kQAY4Z0k&oe=67F80B0B&_nc_sid=5e03e0&_nc_cat=109" alt="Victor" width="200" height="200"> 
 
 ## O que é “ciência de dados”? 🤔
 
