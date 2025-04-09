@@ -19,3 +19,9 @@ no curso. A submissão dos mesmos será via Moodle.
 - [Github](https://github.com/flaviovdf/icd-bradesco/blob/main/labs/lab01/Exercício%201%20-%20Introdução%20à%20Arrays%20e%20DataFrames.ipynb)
 - [Colab](https://colab.research.google.com/drive/1gmFptID23M4csTBg_dKymlgaK_k8RVaP)
 - [Gabarito](https://github.com/flaviovdf/icd-bradesco/blob/main/labs/lab01/Exercício%201%20-%20Introdução%20à%20Arrays%20e%20DataFrames%20-%20Gabarito.ipynb)
+
+## Laboratório 02: Limpeza e Análise Exploratória de Dados
+
+- [Github](https://github.com/flaviovdf/icd-bradesco/blob/main/labs/lab02/Exercício%202%20-%20Limpeza%20e%20Análise%20Exploratória.ipynb)
+- [Colab]()
+- [Gabarito](https://github.com/flaviovdf/icd-bradesco/blob/main/labs/lab02/Exercício%202%20-%20Limpeza%20e%20Análise%20Exploratória%20-%20Gabarito.ipynb)
