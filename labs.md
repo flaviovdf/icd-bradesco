@@ -23,5 +23,5 @@ no curso. A submissão dos mesmos será via Moodle.
 ## Laboratório 02: Limpeza e Análise Exploratória de Dados
 
 - [Github](https://github.com/flaviovdf/icd-bradesco/blob/main/labs/lab02/Exercício%202%20-%20Limpeza%20e%20Análise%20Exploratória.ipynb)
-- [Colab]()
+- [Colab](https://colab.research.google.com/drive/1Dg9CQ-Tre4qQXIjnMUsoLsW-tGaexI0L?usp=sharing)
 - [Gabarito](https://github.com/flaviovdf/icd-bradesco/blob/main/labs/lab02/Exercício%202%20-%20Limpeza%20e%20Análise%20Exploratória%20-%20Gabarito.ipynb)
