@@ -5,7 +5,7 @@ nav_order: 9
 ---
 [<img src="https://raw.githubusercontent.com/flaviovdf/fcd/master/assets/colab_favicon_small.png" style="float: right;">](https://colab.research.google.com/github/flaviovdf/icd-bradesco/blob/master/_lessons/09-Mesclando.ipynb)
 
-# Tópico 11 – Merge ou Mesclando
+# Tópico 09 – Merge ou Mesclando
 {: .no_toc .mb-2 }
 
 Vamos aprender como juntar duas tabelas diferentes de dados.
