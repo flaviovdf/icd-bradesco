@@ -38,8 +38,6 @@ import pandas as pd
 plt.style.use('ggplot')
 ```
 
-# Aula 19 - Regressão Múltipla
-
 Continuando da aula passada, vamos agora focar em casos mais específicos de regressão. Nesta aula, vamos estender a ideia de mínimos quadrados e de regressão linear para modelos mais complexos. Para tal, vamos continuar nosso foco nos dados de preços de apartamentos em BH.
 
 ## Dados
@@ -151,7 +149,7 @@ sns.pairplot(df, diag_kws={'edgecolor':'k'}, plot_kws={'alpha':0.5, 'edgecolor':
 
 
 
-    <seaborn.axisgrid.PairGrid at 0x7fd4c1410dd0>
+    <seaborn.axisgrid.PairGrid at 0x7ff4b47a2480>
 
 
 
@@ -821,8 +819,8 @@ print(print_model)
     Dep. Variable:                  preco   R-squared:                       0.773
     Model:                            OLS   Adj. R-squared:                  0.769
     Method:                 Least Squares   F-statistic:                     179.7
-    Date:                Tue, 15 Apr 2025   Prob (F-statistic):           9.00e-67
-    Time:                        18:31:34   Log-Likelihood:                -2871.3
+    Date:                Wed, 16 Apr 2025   Prob (F-statistic):           9.00e-67
+    Time:                        19:08:57   Log-Likelihood:                -2871.3
     No. Observations:                 216   AIC:                             5753.
     Df Residuals:                     211   BIC:                             5769.
     Df Model:                           4                                         
