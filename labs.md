@@ -31,3 +31,9 @@ no curso. A submissão dos mesmos será via Moodle.
 - [Github](https://github.com/flaviovdf/icd-bradesco/blob/main/labs/lab03/Exercício%203%20-%20Regressão%20Linear%20e%20Múltipla%20na%20Prática.ipynb)
 - [Colab](https://colab.research.google.com/drive/1XkcBjiQsT-ZDxKl_r_Hm4fMZNbTy4cvn#scrollTo=fFpRA8Wganu9)
 - [Gabarito](https://github.com/flaviovdf/icd-bradesco/blob/main/labs/lab03/Exercício%203%20-%20Regressão%20Linear%20e%20Múltipla%20na%20Prática%20-%20Gabarito.ipynb)
+
+## Laboratório 04: Classificadores com ScikitLearn
+
+- [Github](https://github.com/flaviovdf/icd-bradesco/blob/main/labs/lab04/Exercício%204%20-%20Classificadores%20com%20ScikitLearn.ipynb)
+- [Colab](https://colab.research.google.com/drive/1uD6miV6oL6c7OrQAlbLvmkClwTAV8Q0P#scrollTo=MGeKslOLHEsl)
+- [Gabarito](https://github.com/flaviovdf/icd-bradesco/blob/main/labs/lab04/Exercício%204%20-%20Classificadores%20com%20ScikitLearn%20-%20Gabarito.ipynb)
