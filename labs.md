@@ -34,6 +34,6 @@ no curso. A submissão dos mesmos será via Moodle.
 
 ## Laboratório 04: Classificadores com ScikitLearn
 
-- [Github](https://github.com/flaviovdf/icd-bradesco/blob/main/labs/lab04/Exercício%204%20-%20Classificadores%20com%20ScikitLearn.ipynb)
+- [Github](https://github.com/flaviovdf/icd-bradesco/blob/main/labs/lab04/Exercício%204%20-%20Classificadores%20com%20ScikitLearn%20e%20Pipelines.ipynb)
 - [Colab](https://colab.research.google.com/drive/1uD6miV6oL6c7OrQAlbLvmkClwTAV8Q0P#scrollTo=MGeKslOLHEsl)
 - [Gabarito](https://github.com/flaviovdf/icd-bradesco/blob/main/labs/lab04/Exercício%204%20-%20Classificadores%20com%20ScikitLearn%20-%20Gabarito.ipynb)
